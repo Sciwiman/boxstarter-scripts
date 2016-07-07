@@ -59,7 +59,7 @@ if (Test-PendingReboot) { Invoke-Reboot }
 cinst -y googlechrome firefox ie11
 
 #Text editors
-cinst -y atom sublimetext3 visualstudiocode
+cinst -y visualstudiocode
 
 #Development tools
 cinst -y fiddler4
